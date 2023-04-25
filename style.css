@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+    
+.keyboard {
+    height: 58vh;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    width: 80vw;
+    margin: 100px auto;
+}
+
+.row {
+    height: 9vh;
+    margin-bottom: 10px;
+    border: 1px solid;
+    display: flex;
+}
+
+.fn {
+    border: 1px solid;
+    height: 100%;
+    width: 10vw;
+    margin: 5px;
+    margin-top: 0px;
+    border-radius: 5px;
+    
+}
+
+.firstsec {
+    border: 0px solid;
+    height: 50px;
+}
+
+.secondsec {
+    border: 0px solid;
+}
+
+.firstline {
+    border: 1px solid;
+    height: 100%;
+    width: 10vw;
+    margin: 5px;
+    margin-top: 0px;
+    border-radius: 5px;
+}
+
+.delete {
+    width: 15vw;
+}
+
+.thirdsec {
+    border: 0px solid;
+}
+
+.secondline {
+    border: 1px solid;
+    height: 100%;
+    width: 10vw;
+    margin: 5px;
+    margin-top: 0px;
+    border-radius: 5px;
+}
+
+.tab {
+    width: 15vw;
+}
+
+.fourthsec {
+    border: 0px solid;
+}
+
+.thirdline {
+    border: 1px solid;
+    height: 100%;
+    width: 10vw;
+    margin: 5px;
+    margin-top: 0px;
+    border-radius: 5px;
+}
+
+.caps {
+    width: 20vw;
+}
+
+.enter {
+    width: 16vw;
+}
